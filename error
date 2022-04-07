@@ -1,0 +1,4 @@
+catkin_make 를 정상적으로 빌드하고 패키지 못찾는 오류가 나온다면
+
+cd catkin_ws/devel 로 들어가서 
+source bash.rc 를 하기!!!!!! 
